@@ -53,7 +53,7 @@ We also used several libraries to build model.
 
 ## How the model works 
 
-📺 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+📺 <a href="https://www.youtube.com/watch?v=VIDEO_ID"><img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Video Title"></a>
 
 
 ## Little feedback 
