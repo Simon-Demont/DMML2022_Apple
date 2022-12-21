@@ -56,14 +56,14 @@ We also used several libraries to build model.
 
 📺 [link to our demo on youtube ](https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1)
 
-## Final results  
+## Little feedback 
 
 
-## Acknowledgements
+To conclude this project, we would like to return to some key points. First, it was very interesting to build a model from scratch, having to think about which tools to use and which method to use was very instructive for this course. The organisation of the code was also very instructive, for example, creating functions to avoid redundancy, or using explicit function names, to make the code easier to understand for ourselves and for others who might read it.
 
+Secondly, we would like to come back to some difficulties we encountered. Indeed, the difficulty predictions of a text on which the training set was created surely had its own biases. It was therefore difficult to reproduce a model of our own that could fit exactly the requirements of the basic model. Moreover, the training set had little data to train a powerful machine learning model. As it is often said when talking about machine learning, the more training data there is, the better the machine learning model will be.
 
-Contributors 
-
+## Contributors 
 
 - Yonah Bôle
 - Simon Demont
