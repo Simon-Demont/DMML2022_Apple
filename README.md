@@ -53,7 +53,7 @@ We also used several libraries to build model.
 
 ## How the model works 
 
-📺 <a href="https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1"><img src="https://pictshare.net/ddg1dg.jpg" alt="JACKBOYS"></a>
+📺 <a href="https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1"><img src="https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1" alt="JACKBOYS"></a>
 
 
 ## Little feedback 
