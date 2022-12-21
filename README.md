@@ -54,7 +54,8 @@ We also used several libraries to build model.
 ## How the model works 
 
 
-📺 [link to our demo on youtube ](https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1)
+JACKBOYS, Pop Smoke, Travis Scott - GATTI (Official Music Video)
+https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1
 
 ## Little feedback 
 
