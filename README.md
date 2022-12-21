@@ -53,7 +53,9 @@ We also used several libraries to build model.
 
 ## How the model works 
 
-📺 link to the youtube video 
+📺 [Watch the YouTube video](https://www.youtube.com/watch?v=2U-vrd6JhBY&list=RDkx7P_ENnDPE&index=3)
+
+
 
 
 ## Little feedback 
