@@ -23,8 +23,8 @@ We are excited to share our solution with you and hope that it will be useful fo
 To construct this model, we used three dataset that we found on kaggle.com.
 
 
-- **training_data.csv** - the training set
-- **unlabelled_test_data.csv** - the test set
+- **training_data.csv** - the training set with 4800 uniques values 
+- **unlabelled_test_data.csv** - the test set with 1200 unique values
 - **sample_submission.csv** - a sample submission file in the correct format
 
 The columns that we found in those dataset are : 
@@ -34,3 +34,36 @@ The columns that we found in those dataset are :
 - `sentence`: A sentence in French for which you want to predict the difficulty level.
 - `difficulty`: The difficulty level of the sentence (from A1 to C2). This column would be your target variable.
 
+We also used several libraries to build model. 
+
+
+- ScikitLearn :
+	- Models : `LogisticRegression`, `LogisticRegressionCV`, `KNeighborsClassifier CountVectorizer`, `TfidfVectorizer`, `GridSearchCV`, `StandardScaler`,  `Pipeline` , `RandomizedSearchCV`, `DecisionTreeClassifier`, `RandomForestClassifier`, `OneVsRestClassifier`, `MultinomialNB`, `LinearSVC`
+	- Metrics : `confusion_matrix`, `accuracy_score,` `precision_score`, `recall_score`, `f1_score`, `classification_report`
+	- Model selection : `train_test_split`
+	- Dummy : `DummyClassifier`
+- Pandas
+- Numpy
+- SciPY :
+	- `displacy`
+	- `STOP_WORDS`
+- Visualisation : 
+	- `seaborn`
+	- `matplotlib.pyplot`
+
+## How the model works 
+
+
+📺 [link to our demo on youtube ](https://www.youtube.com/watch?v=kx7P_ENnDPE&list=RDkx7P_ENnDPE&start_radio=1)
+
+## Final results  
+
+
+## Acknowledgements
+
+
+Contributors 
+
+
+- Yonah Bôle
+- Simon Demont
