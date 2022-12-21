@@ -3,7 +3,7 @@
 # Detecting the difficulty level of French texts
 
 
-# 🚀About the project 
+## 🚀About the project 
 
 
 During our Master class, Data mining and machine learning, we have joined a competition on [Kaggle.](https://Kaggle.com)com. The goal was to build a model for English speakers that predicts the difficulty of a French written text between A1 to C2.
